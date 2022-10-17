@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou Alyson Kohatsu.
 
-- 🔭 Sou estudante de Sistema de Informação.
+- 🔭 Sou estudante de Sistema de Informaçãoo.
 
 <div align="center">
   <a href="https://github.com/srKohatsu/">
